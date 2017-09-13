@@ -1,0 +1,9 @@
+
+img {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    background-size: 100% auto;
+    display:inline-block;
+    
+}
